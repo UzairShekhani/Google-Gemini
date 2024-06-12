@@ -22,7 +22,7 @@ const Sidebar = () => {
                   <p>What is react ...</p>
               </div>
             </div>
-            : null
+            :  null
             }
         </div>
         <div className="bottom">
