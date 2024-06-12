@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Sidebar.css'
 import {assets} from '../../assets/assets'
 
-const Sidebar = ( ) => {
+const Sidebar = () => {
 
   const [extended, setExtended] = useState(false)
 
